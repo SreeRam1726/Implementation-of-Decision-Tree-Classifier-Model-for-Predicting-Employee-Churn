@@ -85,9 +85,11 @@ plt.show()
 ```
 
 ## Output:
+<img width="1914" height="847" alt="Screenshot 2026-03-09 112854" src="https://github.com/user-attachments/assets/0ce40071-56ea-4dfb-9ab0-b7eaebf61e0f" />
+
 ![decision tree classifier model](sam.png)
 <img width="1858" height="678" alt="Screenshot 2026-03-09 112820" src="https://github.com/user-attachments/assets/c14e517c-7a48-48df-a870-4bbb7b294c76" />
-<img width="1914" height="847" alt="Screenshot 2026-03-09 112854" src="https://github.com/user-attachments/assets/25f47f6a-2ea7-4b65-b902-552299487209" />
+
 
 
 ## Result:
